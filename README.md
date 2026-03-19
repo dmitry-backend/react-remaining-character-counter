@@ -49,13 +49,13 @@ node -v
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dmitry-backend/react-counter.git
+git clone https://github.com/dmitry-backend/react-remaining-character-counter.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd react-counter
+cd react-remaining-character-counter
 ```
 
 3. Install project dependencies:
