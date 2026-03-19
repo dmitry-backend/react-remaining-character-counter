@@ -21,7 +21,7 @@ The app also provides a visual warning when the user approaches the limit.
 
 ## Project Structure
 ```text
-react-counter
+react-remaining-character-counter/
 ├── index.html
 ├── package.json
 ├── package-lock.json
